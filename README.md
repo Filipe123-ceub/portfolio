@@ -1,1 +1,1 @@
-Aqui está os arquivos do Projeto
+Aqui estão os arquivos do Projeto
